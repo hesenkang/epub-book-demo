@@ -1,4 +1,4 @@
-# ebook-demo
+# epub-book-demo
 
 > A Vue.js project
 
