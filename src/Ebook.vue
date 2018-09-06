@@ -17,7 +17,7 @@
 import TitleBar from '@/components/TitleBar'
 import MenuBar from '@/components/MenuBar'
 import Epub from 'epubjs'
-const DOWNLOAD_URL = '/static/2018_Book_AgileProcessesInSoftwareEngine.epub'
+const DOWNLOAD_URL = './static/2018_Book_AgileProcessesInSoftwareEngine.epub'
 
 export default {
   components: {
