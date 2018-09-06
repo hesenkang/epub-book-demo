@@ -4,7 +4,7 @@
 
 
 
-### **[demo](https://hesenkang.github.io/epub-book-demo/dist/)** 
+### **[在线访问demo](https://hesenkang.github.io/epub-book-demo/dist/)** 
 https://hesenkang.github.io/epub-book-demo/dist/
 
 > 一个在线电子书阅读器
