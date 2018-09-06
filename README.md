@@ -1,6 +1,13 @@
 # epub-book-demo
 
-> A Vue.js project
+
+
+
+
+### **[demo](https://hesenkang.github.io/epub-book-demo/dist/)** 
+https://hesenkang.github.io/epub-book-demo/dist/
+
+> 一个在线电子书阅读器
 
 ## Build Setup
 
